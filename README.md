@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the eight of the TeamTreehouse Front-end Web Development Techdegree. The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/treehouse-frontend-08-accessibility-refactor/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
+This is project #8 of the TeamTreehouse Front-end Web Development Techdegree. In this project, a poorly created website with accessibility flaws was given and I have to refactor it so that it can pass automated and manual accessibility(s)'s validator. The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/treehouse-frontend-08-accessibility-refactor/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
 
 ## Usage
 
@@ -20,7 +20,7 @@ The source of this app can be seen in the src folder of master branch.
 
 ## Testing
 
-This app was tested using [HTML](https://validator.w3.org/) validator, [HTML-Accessibility](https://achecker.ca/checker/index.php) validator and [chrome accessibility tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en).
+This app was tested using [HTML](https://validator.w3.org/) validator, [HTML-Accessibility](https://achecker.ca/checker/index.php) validator, [Fangs Screen Reader Emulator](https://addons.mozilla.org/en-us/firefox/addon/fangs-screen-reader-emulator/) and [chrome accessibility tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en).
 
 ### Notes
 
