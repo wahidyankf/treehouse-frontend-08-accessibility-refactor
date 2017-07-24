@@ -20,7 +20,7 @@ The source of this app can be seen in the src folder of master branch.
 
 ## Testing
 
-This app was tested using [HTML](https://validator.w3.org/) validator, [HTML-Accessibility](https://jigsaw.w3.org/css-validator/) validator and [chrome accessibility tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en).
+This app was tested using [HTML](https://validator.w3.org/) validator, [HTML-Accessibility](https://achecker.ca/checker/index.php) validator and [chrome accessibility tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en).
 
 ### Notes
 
