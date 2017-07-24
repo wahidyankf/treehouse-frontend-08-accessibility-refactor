@@ -1,4 +1,4 @@
-# TTH Front-End WeB Developer Techdegree - P08 - Accessibility Refactor
+# Team Treehouse - Front-End WeB Developer Techdegree - P08 - Accessibility Refactor
 
 ## Introduction
 
