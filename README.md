@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is project #8 of the TeamTreehouse Front-end Web Development Techdegree. In this project, a poorly created website with accessibility flaws was given and I have to refactor it so that it can pass automated and manual accessibility(s)'s validator. The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/treehouse-frontend-08-accessibility-refactor/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
+This is project #8 of the TeamTreehouse Front-end Web Development Techdegree. In this project, a website with accessibility flaws was given and I have to refactor it so that it can pass automated and manual accessibility(s)'s validator. The complete instruction of the project can be seen in [project_instructions.pdf](https://github.com/wahidyankf/treehouse-frontend-08-accessibility-refactor/blob/master/project_instructions.pdf), and the initial code and assets can be seen in the `initial_assets` folder.
 
 ## Usage
 
