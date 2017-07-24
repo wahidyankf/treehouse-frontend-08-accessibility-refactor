@@ -60,7 +60,7 @@ gulp.task('cleanAll', function(){
 })
 
 gulp.task('html', function(){
-    gulp.src(options.src + '/index.html')
+    gulp.src(options.src + '/**.html')
         .pipe(useref())
         .pipe(iff('*.js', uglify()))
         .pipe(iff('*.css', csso()))
