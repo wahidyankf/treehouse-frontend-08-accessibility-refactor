@@ -29,17 +29,13 @@ I ignore the google chrome accessibility tools audit warnings of text-elements c
 ## Sreenshots
 
 ### Before Accessibility Refactor
-![index.html](screenshots/before-index.png)
-![survey.html](screenshots/before-survey.png)
-![tour.html](screenshots/before-tour.png)
+
 ![index.html - metrics](screenshots/before-metrics-index.png)
 ![survey.html - metrics](screenshots/before-metrics-index.png)
 ![tour.html - metrics](screenshots/before-metrics-index.png)
 
 ### After Accessibility Refactor
-![index.html](screenshots/after-index.png)
-![survey.html](screenshots/after-survey.png)
-![tour.html](screenshots/after-tour.png)
+
 ![index.html - metrics](screenshots/after-metrics-index.png)
 ![survey.html - metrics](screenshots/after-metrics-index.png)
 ![tour.html - metrics](screenshots/after-metrics-index.png)
